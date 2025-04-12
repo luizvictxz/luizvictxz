@@ -4,7 +4,7 @@
 
 <h3 align="left">🚀 Sobre mim</h3>
 
-<p align="left">Estudei Informática no IFRN e sigo minha jornada na graduação em Tecnologia da Informação na UFRN. Minha missão é transformar ideias em soluções, explorando automação, desenvolvimento de softwares<br>Tenho experiência com:</p>
+<p align="left">Estudei Informática no IFRN e sigo minha jornada na graduação em Tecnologia da Informação na UFRN. Minha missão é transformar ideias em soluções, explorando automação, desenvolvimento de softwares. <br>Tenho experiência com:</p>
 <ul>
   <li>🔧 Automação de processos</li>
   <li>🐍 Python (web, scripts, bots)</li>
