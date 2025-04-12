@@ -4,11 +4,20 @@
 
 <h3 align="left">🚀 Sobre mim</h3>
 
-<p align="left">Sou curioso, autodidata e adoro resolver problemas com código.<br>Tenho experiência com:<br><br>🔧 Automação de processos<br><br>🐍 Python (web, scripts, bots)<br><br>🌐 Desenvolvimento Web (Flask, Django)<br><br>📚 Estudo contínuo com foco em backend, infraestrutura e segurança</p>
+<p align="left">Sou curioso, autodidata e adoro resolver problemas com código.<br>Tenho experiência com:</p>
+<ul>
+  <li>🔧 Automação de processos</li>
+  <li>🐍 Python (web, scripts, bots)</li>
+  <li>🌐 Desenvolvimento Web (Flask, Django)</li>
+  <li>📚 Estudo contínuo com foco em backend, infraestrutura e segurança</li>
+</ul>
 
 <h3 align="left">🌱 Atualmente estudando</h3>
-
-<p align="left">⚛️ JavaScript e React – criando interfaces modernas e interativas<br><br>☁️ AWS re/Start – computação em nuvem e boas práticas com a AWS<br><br>🐳 Docker – containers para ambientes leves e replicáveis</p>
+<ul>
+  <li>⚛️ JavaScript e React – criando interfaces modernas e interativas<br></li>
+  <li>☁️ AWS re/Start – computação em nuvem e boas práticas com a AWS</li>
+  <li>🐳 Docker – containers para ambientes leves e replicáveis</li>
+</ul>
 
 <h3 align="left">⚙️ Tecnologias e ferramentas</h3>
 
