@@ -1,7 +1,5 @@
 <h1 align="left">👋 Olá, eu sou o Luiz Pinto!</h1>
 
-###
-
 <br clear="both">
 
 <h2 align="left">💻 Desenvolvedor Web | 🛠️ Entusiasta de automações | 🧠 Apaixonado por tecnologia</h2>
