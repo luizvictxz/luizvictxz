@@ -7,16 +7,16 @@
 <p align="left">Estudei Informática no IFRN e sigo minha jornada na graduação em Tecnologia da Informação na UFRN.<br>Tenho experiência com:</p>
 <ul>
   <li>🔧 Automação de processos</li>
-  <li>🐍 Python (web, scripts, bots)</li>
-  <li>🌐 Desenvolvimento Web (Flask, Django)</li>
+  <li>🐍 Python</li>
+  <li>🌐 Desenvolvimento Web</li>
   <li>📚 Estudo contínuo com foco em backend, infraestrutura e segurança</li>
 </ul>
 
 <h3 align="left">🌱 Atualmente estudando</h3>
 <ul>
-  <li>⚛️ JavaScript e React – criando interfaces modernas e interativas<br></li>
-  <li>☁️ AWS re/Start – computação em nuvem e boas práticas com a AWS</li>
-  <li>🐳 Docker – containers para ambientes leves e replicáveis</li>
+  <li>⚛️ JavaScript e React</li>
+  <li>☁️ AWS re/Start</li>
+  <li>🐳 Docker</li>
 </ul>
 
 <h3 align="left">⚙️ Tecnologias e ferramentas</h3>
