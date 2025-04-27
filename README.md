@@ -1,6 +1,6 @@
 <h1 align="left">👋 Olá, eu sou o Luiz Victor!</h1>
 
-<h2 align="left">💻 Desenvolvedor Web | 🛠️ Entusiasta de automações | 🧠 Apaixonado por tecnologia</h2>
+<h2 align="left">💻 Desenvolvedor Web</h2>
 
 <h3 align="left">🚀 Sobre mim</h3>
 
